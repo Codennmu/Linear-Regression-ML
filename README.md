@@ -243,12 +243,19 @@ Datasets used in the notebook include:
 The notebook contains multiple visualizations such as:
 
 * Regression line plots
+  <img width="1289" height="413" alt="Regression line plots" src="https://github.com/user-attachments/assets/53b6f772-d600-415e-bda0-9ef2a3d91ad4" />
 * Residual visualizations
+  <img width="1284" height="515" alt="Residual visualizations" src="https://github.com/user-attachments/assets/056043a5-3239-49ca-ab0e-df6ac1487725" />
 * Cost convergence graphs
+  <img width="1289" height="413" alt="Cost convergence graphs" src="https://github.com/user-attachments/assets/adbed954-703d-46ab-b329-dbd85e9a2348" />
 * Learning rate comparison plots
+  <img width="989" height="490" alt="Learning rate comparison plots" src="https://github.com/user-attachments/assets/bcb0e758-7feb-407e-a81d-9a6d25c67081" />
 * Correlation heatmaps
+  <img width="823" height="590" alt="Correlation heatmaps" src="https://github.com/user-attachments/assets/045dc9eb-470e-4c59-b6de-99b2f62da460" />
 * Diagnostic plots
+  <img width="1079" height="841" alt="Diagnostic plots" src="https://github.com/user-attachments/assets/13b3e48d-296c-4d0a-881b-88c4d8a77bd5" />
 * Ridge vs Lasso coefficient analysis
+<img width="1289" height="886" alt="Ridge vs Lasso coefficient analysis" src="https://github.com/user-attachments/assets/b28b3e79-fda3-4d8b-8354-b3aacabe5c10" />
 
 ---
 
